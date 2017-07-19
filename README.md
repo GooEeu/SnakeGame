@@ -8,3 +8,6 @@ I decided to write a Snake Game. And I passed this course.
 
 一个用java写成的贪吃蛇游戏
 写的怎么样暂且不论, 反正我这门课通过了 开心
+
+First time using Github. 
+第一次用Github 如果有不对的地方请多包涵.
